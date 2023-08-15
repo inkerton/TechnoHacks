@@ -7,4 +7,4 @@ Dataset Link: [Here](https://www.kaggle.com/c/word2vec-nlp-tutorial/data)
 2.Fraud Transaction Detection
 Dataset Link: [Here](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
 3.Wine quality prediction
-Dataset Link:
+Dataset Link: [Here](
