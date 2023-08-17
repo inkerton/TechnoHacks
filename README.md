@@ -1,7 +1,7 @@
 # TechnoHacks
 TechnoHacks Internship
 
-Task List: [Here](https://drive.google.com/drive/folders/1PoJ8Yytf5WmJyTwP_iT_ijAfurY6VXPc)<br>
+<b>Task List: [Here](https://drive.google.com/drive/folders/1PoJ8Yytf5WmJyTwP_iT_ijAfurY6VXPc)<br></b>
 
 1.Movie Reviews classification<br>
 Dataset Link: [Here](https://www.kaggle.com/c/word2vec-nlp-tutorial/data)<br>
