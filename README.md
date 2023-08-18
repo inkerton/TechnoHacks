@@ -1,5 +1,5 @@
 # TechnoHacks
-<b>TechnoHacks Internship</b>
+<b>TechnoHacks Internship Aug'23</b>
 
 <b>Task List: [Here](https://drive.google.com/drive/folders/1PoJ8Yytf5WmJyTwP_iT_ijAfurY6VXPc)<br></b>
 
