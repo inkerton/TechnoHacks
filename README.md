@@ -11,7 +11,7 @@ Dataset Link: [Here](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)<br
 Dataset Link: [Here](https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009)<br>
 
 Submission Form Status: Submitted✅<br>
-LINKEDIN post:
+LINKEDIN post: ✅
 <!-- Payment-79
 Certificate date: 2-september'23
 posted
